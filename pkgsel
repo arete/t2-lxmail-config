@@ -1,9 +1,14 @@
 O  aufs
 O  zile
+X  tzdata
 X  bin86
 O  modutils 
 O  squashfs-tools
 O  subversion
+O  mine
+O  jfsutils
+O  portmap
+X  bc
 X  git
 X  python
 X  lzma
@@ -11,6 +16,7 @@ X  squid
 X  openldap
 X  qmail
 X  dovecot
+X  clucene
 X  bind
 X  dhcpd
 X  mysql
@@ -34,6 +40,7 @@ X  fetchmail
 X  procmail
 X  pcre
 X  libdnet
-X  snort
-O  nfs-utils
+X  libnl
+O  snort
+X  nfs-utils
 O  unionfs
